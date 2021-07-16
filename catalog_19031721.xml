@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Author: Sudip Chaudhary 
+	Group: C8
+	Londonmet ID: 19031721
+-->
+<!--
+<!DOCTYPE Music_Store SYSTEM "catalog_19031721.dtd">
+-->
+<?xml-stylesheet type = "text/css" href="catalog_19031721.css"?>
+<Music_Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ 		xsi:noNamespaceSchemaLocation="catalog_19031721.xsd">
+	<Logo></Logo>
+	<Shop_Name>Finatic  Music  Store</Shop_Name>
+	<Address>Old Baneshwor, Kathmandu</Address>
+	<ContactNo Phonetype="primary">+977-014423212</ContactNo>
+	<Website_Address>www.finaticmusicstore.com.np</Website_Address>
+	
+    <Songs>
+    
+        <Song id="Song1">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Hip-Hop/Rap</Genre>
+        	<Song_Name>Song Name: Ayo</Song_Name>
+			<artist title="Mister">Singer Name: Chris Brown, Tyga</artist>
+			<length>Music Length: 3:49</length>
+			<Song_Price rscurrency="rs">Price: RS 10000</Song_Price>
+			<Description><underline>Description</underline>: "Ayo" is a song by American singer Chris Brown and American rapper Tyga (billed together as Chris Brown X Tyga), released as the lead single from their collaboration album Fan of a Fan: The Album. It was produced by Nic Nac and Mark Kragen, whom the former Chris previously worked with on "Loyal". </Description>
+
+			<Information>
+		
+				<Director title="Mister">Director: Colin Tilley</Director>
+				<Writer title="Mister">Wiriter: Chris Brown</Writer>
+				<Label>Label: RCA.Young Money</Label>
+				<Producer title="Mister">Producer: Nic Nac.Kragen</Producer>
+				<Album_Name>Album: Most Wanted, Vol.2</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2015</Year>
+					<Month>Month: January</Month>
+					<Day>Day: 6</Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song2">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Jazz</Genre>
+        	<Song_Name>Song Name: So What</Song_Name>
+			<artist title="Mister">Singer Name: Miles Davis</artist>
+			<length>Music Length: 9.22</length>
+			<Song_Price rscurrency="rs">Price: RS 2000</Song_Price>
+			<Description><underline>Description</underline>: It is one of the best known examples of modal jazz, set in the Dorian mode and consisting of 16 bars of D Dorian, followed by eight bars of E♭ Dorian and another eight of D Dorian. This AABA structure puts it in the thirty-two-bar format of American popular song.</Description>
+
+			<Information>
+		
+				<Director>Director: </Director>
+				<Writer title="Mister">Writer: Miles Davis</Writer>
+				<Label>Label: </Label>
+				<Producer title="Mister">Producer: Irving Townsend</Producer>
+				<Album_Name>Album: The Essential Works</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 1959</Year>
+					<Month>Month: March</Month>
+					<Day>Day: 2</Day> 
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song3">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Pop Music</Genre>
+        	<Song_Name>Song Name: Mood</Song_Name>
+			<artist title="Mister">Singer Name: 24kGoldn</artist>
+			<length>Music Length: 2:20</length>
+			<Song_Price rscurrency="rs">Price: RS 20000</Song_Price>
+			<Description><underline>Description</underline>: "Mood" is a song by American singer-songwriter 24kGoldn, featuring vocals from Puerto Rican-born American singer-songwriter Iann Dior. It was released on July, 2020, through Records and Columbia Records, and later included on 24k's debut album, El Dorado (2021). It was written by the two artists with its producers KBeazy, Omer Fedi, and Blake Slatkin.</Description>
+
+			<Information>
+		
+				<Director title="Mister">Director: Sebastian Sdaigui</Director>
+				<Writer title="Mister">Writer: Golden Von Jones</Writer>
+				<Label>Label: </Label>
+				<Producer title="Mister">Producer: KBeazy</Producer>
+				<Album_Name>Album: </Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2020</Year>
+					<Month>Month: July</Month>
+					<Day>Day: </Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song4">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Rock</Genre>
+        	<Song_Name>Song Name: Shot in the Dark</Song_Name>
+			<artist title="Mister">Singer Name: AC/DC</artist>
+			<length>Music Length: 3:06</length>
+			<Song_Price rscurrency="rs">Price: RS 30000</Song_Price>
+			<Description><underline>Description</underline>: A Shot in the Dark is a 1964 British-American DeLuxe Color comedy film directed by Blake Edwards in Panavision. It is the second installment in The Pink Panther film series, with Peter Sellers reprising his role as Inspector Jacques Clouseau of the French Sûreté.</Description>
+
+			<Information>
+		
+				<Director title="Mister">Director: David Mallet</Director>
+				<Writer>Writer: </Writer>
+				<Label>Label: </Label>
+				<Producer title="Mister">Producer: Brendan O'Brien</Producer>
+				<Album_Name>Album: </Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2020</Year>
+					<Month>Month: </Month>
+					<Day>Day: </Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song5">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Country Music</Genre>
+        	<Song_Name>Song Name: I Hope</Song_Name>
+			<artist title="Miss">Singer Name: Gabby Barrett</artist>
+			<length>Music Length: 3:23</length>
+			<Song_Price rscurrency="rs">Price: RS 10000</Song_Price>
+			<Description><underline>Description</underline>: "I Hope" is a song co-written and recorded by American country music singer Gabby Barrett. She released the single independently following her third-place finish on season 16 of American Idol. It led to her signing a deal with Warner Music Nashville, and it was released in July 2019 as her debut single </Description>
+
+			<Information>
+		
+				<Director>Director: </Director>
+				<Writer title="Miss">Writer: Gabby Barrett</Writer>
+				<Label>Label: Warner Music Nashville</Label>
+				<Producer>Producer: </Producer>
+				<Album_Name>Album: </Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2019</Year>
+					<Month>Month: July</Month>
+					<Day>Day: 29</Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song6">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Dance/Electronic</Genre>
+        	<Song_Name>Song Name: Trust Nobody</Song_Name>
+			<artist title="Mister">Singer Name: DJ Snake</artist>
+			<length>Song Length: 3:31</length>
+			<Song_Price rscurrency="rs">Price: RS 14000</Song_Price>
+			<Description><underline>Description</underline>: From ominous times comes ominous music. Today (June 24) DJ Snake dropped a new single "Trust Nobody", which effectively nails the doomy vibe of the current moment with brick hard beats, sirens and vocals that focus on how you can't trust anyone...like, nobody.</Description>
+
+			<Information>
+		
+				<Director>Director: </Director>
+				<Writer title="Mister">Writer: Lewis Hughes</Writer>
+				<Label>Label: </Label>
+				<Producer title="Mister">Producer: DJ Snake</Producer>
+				<Album_Name>Album: Trust Nobody</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2020</Year>
+					<Month>Month: June</Month>
+					<Day>Day: 24</Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song7">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Electricpop</Genre>
+        	<Song_Name>Song Name: Starboy</Song_Name>
+			<artist title="Mister">Singer Name: The Weeknd</artist>
+			<length>Song Length: 3:50</length>
+			<Song_Price rscurrency="rs">Price: RS 20000</Song_Price>
+			<Description><underline>Description</underline>: "Starboy" is a song recorded by Canadian singer the Weeknd for his third studio album of the same name. It features French electronic duo Daft Punk. The artists co-wrote and co-produced the song alongside Doc McKinney and Henry "Cirkut" Walter, with Jason Quenneville providing additional writing.</Description>
+
+			<Information>
+		
+				<Director title="Mister">Director: Grant Singer</Director>
+				<Writer>Writer: </Writer>
+				<Label >Label: Republic</Label>
+				<Producer>Producer: </Producer>
+				<Album_Name>Album: Starboy</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2016</Year>
+					<Month>Month: </Month>
+					<Day>Day: </Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song8">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Pop Music</Genre>
+        	<Song_Name>Song Name: Peaches</Song_Name>
+			<artist title="Mister">Singer Name: Justin Bieber</artist>
+			<length>Song Length: 3:18</length>
+			<Song_Price rscurrency="rs">Price: RS 40000</Song_Price>
+			<Description><underline>Description</underline>: "Peaches" is a song by Canadian singer-songwriter Justin Bieber, featuring vocals from fellow Canadian singer-songwriter Daniel Caesar and American singer-songwriter Giveon. The song was released on March 19, 2021, as the fifth single from Bieber's sixth studio album, Justice. </Description>
+
+			<Information>
+		
+				<Director title="Mister">Director: Colin Tilley </Director>
+				<Writer title="Mister">Writer: Justin Bieber</Writer>
+				<Label>Label: </Label>
+				<Producer title="Mister">Producer: Harv</Producer>
+				<Album_Name>Album: Justic</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2021</Year>
+					<Month>Month: March</Month>
+					<Day>Day: 19</Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song9">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Groove metal</Genre>
+        	<Song_Name>Song Name: All Within My Hands</Song_Name>
+			<artist>Singer Name: Metallica</artist>
+			<length>Song Length: 6.22</length>
+			<Song_Price rscurrency="rs">Price: RS 30000</Song_Price>
+			<Description><underline>Description</underline>: "All Within My Hands" is about bassist Jason Newsted's 2001 departure from Metallica. Newsted told the band he wanted them all to take a year off so they could all work on solo projects. He wanted time to develop a metal band named Echobrain. The other members voted against his proposal, so Newsted quit.</Description>
+
+			<Information>
+		
+				<Director>Director: </Director>
+				<Writer title="Mister">Writer: Metallica</Writer>
+				<Label>Label: </Label>
+				<Producer>Producer: </Producer>
+				<Album_Name>Album: S.Anger</Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2003</Year>
+					<Month>Month: </Month>
+					<Day>Day: </Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Song id="Song10">
+			<Song_Cover></Song_Cover>
+			<Genre>Genre: Pop punk</Genre>
+        	<Song_Name>Song Name: Without You</Song_Name>
+			<artist title="Mister">Singer Name: Kid Laroi</artist>
+			<length>Song Length: 2:41</length>
+			<Song_Price rscurrency="rs">Price: RS 20000</Song_Price>
+			<Description><underline>Description</underline>: "Without You" (stylised in all caps) is a song by Australian rapper and singer the Kid Laroi from the deluxe "Savage" edition of his debut mixtape F*ck Love (2020). It was released to alternative radio on 18 December 2020 as the first international single and fifth overall single from the mixtape.</Description>
+
+			<Information>
+		
+				<Director>Director: </Director>
+				<Writer title="Mister">Writer: Charlton Howard</Writer>
+				<Label>Label: Grade A</Label>
+				<Producer title="Mister">Producer: Blake Slatkin</Producer>
+				<Album_Name>Album: </Album_Name>
+
+				<Release_Date>
+				
+					<Year>Release Date | Year: 2020</Year>
+					<Month>Month: December</Month>
+					<Day>Day: 18</Day>
+
+				</Release_Date>
+
+			</Information>
+
+        </Song>
+
+		<Buttom>© 2021 Sudip Chaudhary</Buttom>
+
+    </Songs>
+
+    
+</Music_Store>

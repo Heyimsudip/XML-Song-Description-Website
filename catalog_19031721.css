@@ -1,0 +1,1837 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+Music_Store {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: cornflowerblue;
+  margin: 0px auto;
+  width: 85%;
+}
+
+Logo {
+  display: block;
+  background: url("photo/logo.png");
+  position: relative;
+  background-size: auto 100%;
+  height: 100px;
+  width: 100px;
+  margin-left: 0px;
+  background-repeat: no-repeat;
+}
+
+Shop_Name {
+  font-size: 40px;
+  font-family: "Raleway", sans-serif;
+  display: inline;
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 350px;
+  padding: 10px;
+}
+
+Address {
+  font-size: 12px;
+  font-family: "Raleway", sans-serif;
+  position: absolute;
+  margin-top: -70px;
+  margin-left: 920px;
+  float: right;
+  padding: 10px;
+  color: rgb(56, 60, 162);
+  display: list-item;
+  list-style-type: square;
+}
+
+ContactNo {
+  display: list-item;
+  list-style-type: square;
+  font-size: 12px;
+  font-family: "Raleway", sans-serif;
+  position: absolute;
+  float: right;
+  margin-top: -40px;
+  margin-left: 920px;
+  padding: 10px;
+  color: rgb(56, 60, 162);
+}
+
+Website_Address {
+  font-size: 12px;
+  font-family: "Raleway", sans-serif;
+  display: list-item;
+  list-style-type: square;
+  position: absolute;
+  float: right;
+  margin-top: -5px;
+  margin-left: 920px;
+  padding: 10px;
+  color: rgb(56, 60, 162);
+}
+
+#Song1 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover1.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  border-radius: 3px solid red;
+  transition: 0.5s ease-in-out;
+}
+
+#Song1 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 {
+  display: block;
+  border: 1px solid rgb(255, 211, 211);
+  margin-top: 80px;
+  background-color: rgb(255, 211, 211);
+  height: 90vh;
+}
+
+#Song1 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song1 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song1 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song1 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song1 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song1 Year {
+  display: inline;
+  float: right;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  float: right;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song1 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 {
+  display: block;
+  border: 1px solid rgb(186, 248, 253);
+  margin-top: 80px;
+  background-color: rgb(186, 248, 253);
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song2 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover2.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song2 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song2 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song2 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 {
+  display: block;
+  border: 1px solid #ffd8be;
+  margin-top: 80px;
+  background-color: #ffd8be;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song3 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover3.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song3 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song3 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song3 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song3 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song3 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song3 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song3 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 {
+  display: block;
+  border: 1px solid #bbd4ce;
+  margin-top: 80px;
+  background-color: #bbd4ce;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song4 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover4.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 140px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song4 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song4 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song4 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song4 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song4 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song4 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song4 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 {
+  display: block;
+  border: 1px solid #b3a188;
+  margin-top: 80px;
+  background-color: #b3a188;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song5 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover5.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 140px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song5 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song5 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song5 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song5 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song5 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song5 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song5 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 {
+  display: block;
+  border: 1px solid #cfc1ff;
+  margin-top: 80px;
+  background-color: #cfc1ff;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song6 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover6.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 140px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song6 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song6 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song6 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song6 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song6 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song6 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song6 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 {
+  display: block;
+  border: 1px solid #fefcbf;
+  margin-top: 80px;
+  background-color: #fefcbf;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song7 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover7.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song7 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song7 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song7 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song7 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song7 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song7 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song7 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 {
+  display: block;
+  border: 1px solid#e6ffe6;
+  margin-top: 80px;
+  background-color: #e6ffe6;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song8 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover8.jpg");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song8 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song8 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song8 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song8 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song8 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song8 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song8 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 {
+  display: block;
+  border: 1px solid #ccd9ff;
+  margin-top: 80px;
+  background-color: #ccd9ff;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song9 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover9.png");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song9 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song9 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song9 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song9 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song9 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song9 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song9 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 {
+  display: block;
+  border: 1px solid #f8efc9;
+  margin-top: 80px;
+  background-color: #f8efc9;
+  padding: 0;
+  margin: 0;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+#Song10 Song_Cover {
+  display: block;
+  position: relative;
+  background: url("photo/cover10.png");
+  background-size: auto 100%;
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  padding: 40px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 100px;
+  transition: 0.5s ease-in-out;
+}
+
+#Song10 Genre {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song10 Song_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song10 artist {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song10 length {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song10 Song_Price {
+  display: inline;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+}
+
+#Song10 Director {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -230px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Writer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -200px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Label {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -170px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Producer {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -140px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Album_Name {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -110px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Year {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -80px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Month {
+  display: inline;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+#Song10 Day {
+  display: inline;
+  position: absolute;
+  margin-left: 940px;
+  margin-top: -50px;
+  font-family: "Quicksand", sans-serif;
+  padding: 5px;
+  float: right;
+}
+
+Buttom {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Raleway", sans-serif;
+  position: absolute;
+  padding: 30px;
+  margin-left: 450px;
+  float: right;
+}
+
+#Song1 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song2 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song3 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song4 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song5 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song6 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song7 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song8 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song9 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+#Song10 Description {
+  display: inline;
+  margin-bottom: 30px;
+  font-family: "Quicksand", sans-serif;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 45%;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+underline {
+  text-decoration: underline;
+}
+
+#Song1 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#Song2 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#Song3 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Song4 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Song5 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Song6 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Song7 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Song8 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#Song9 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+#Song10 Song_Cover:hover {
+  height: 200px;
+  width: 200px;
+  transform: translateY(50px);
+  transition: 0.5s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

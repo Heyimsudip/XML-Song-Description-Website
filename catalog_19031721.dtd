@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT Music_Store (Logo,Shop_Name,Address,ContactNo,Website_Address,Songs)>
+<!ELEMENT Logo (#PCDATA)>
+<!ELEMENT Shop_Name (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT ContactNo (#PCDATA)>
+<!ATTLIST ContactNo Phonetype (primary|secondary) "primary">
+<!ELEMENT Website_Address (#PCDATA)>
+<!ELEMENT Songs (Song+,Buttom)>
+<!ATTLIST Song id (Song1|Song2|Song3|Song4|Song5|Song6|Song7|Song8|Song9|Song10) "Song1">
+<!ELEMENT Buttom (#PCDATA)>
+<!ELEMENT Song (Song_Cover,Genre,Song_Name,artist,length,Song_Price,Description,Information)>
+<!ELEMENT Song_Cover (#PCDATA)>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT Song_Name (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ATTLIST artist title (Mister|Miss) "Mister">
+<!ELEMENT length (#PCDATA)>
+<!ELEMENT Song_Price (#PCDATA)>
+<!ATTLIST Song_Price rscurrency (rs) "rs">
+<!ELEMENT Description (#PCDATA | underline)*>
+<!ELEMENT underline (#PCDATA)>
+<!ELEMENT Information (Director,Writer,Label,Producer,Album_Name,Release_Date)>
+<!ELEMENT Director (#PCDATA)>
+<!ATTLIST Director title (Mister|Miss) "Mister">
+<!ELEMENT Writer (#PCDATA)>
+<!ATTLIST Writer title (Mister|Miss) "Mister">
+<!ELEMENT Label (#PCDATA)>
+<!ELEMENT Producer (#PCDATA)>
+<!ATTLIST Producer title (Mister|Miss) "Mister">
+<!ELEMENT Album_Name (#PCDATA)>
+<!ELEMENT Release_Date (Year,Month,Day)>
+<!ELEMENT Year (#PCDATA)>
+<!ELEMENT Month (#PCDATA)>
+<!ELEMENT Day (#PCDATA)>
